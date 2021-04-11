@@ -1,0 +1,15 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lesson6"
+		},
+		{
+			"path": "../Lesson4"
+		}
+	],
+    "remoteAuthority": "wsl+Ubuntu",
+    "settings": {}
+}
